@@ -93,15 +93,15 @@ The dashboard provides an interactive overview of sales performance, customer be
 
 ### Sales Overview
 
-![Sales Overview](Images/Supermarket%20Performance%20Dashboard%20page1.png)
+![Sales Overview](Images/Supermarket%20Performance%20Dashboard%20page%201.png)
 
-![Sales Overview - Slicer](Images/Supermarket%20Performance%20Dashboard%20Slicer%201.png)
+![Sales Overview Slicer](Images/Supermarket%20Performance%20Dashboard%20Slicer%201.png)
 
 ### Customer Insights
 
-![Customer Insights](Images/Supermarket%20Performance%20Dashboard%20page2.png)
+![Customer Insights](Images/Supermarket%20Performance%20Dashboard%20page%202.png)
 
-![Customer Insights - Slicer](Images/Supermarket%20Performance%20Dashboard%20Slicer%202.png)
+![Customer Insights Slicer](Images/Supermarket%20Performance%20Dashboard%20Slicer%202.png)
 
 ---
 
